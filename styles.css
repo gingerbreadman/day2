@@ -1,0 +1,41 @@
+h1 {
+      color: red;
+      text-decoration: underline;
+    }
+
+    #google {
+      margin-left: 20px;
+      background-color: blue;
+      border-radius: 5px;
+      color: white;
+      text-decoration: none;
+      padding: 5px;
+    }
+
+    .team {
+      border: thin red solid;
+      width: 33%;
+    }
+
+    .player_pic {
+      width: 100px;
+    }
+
+    #opponent {
+      float: right;
+    }
+
+    #me {
+      float: left;
+    }
+
+    .fix-float {
+      clear: both;
+    }
+    .bg-grey {
+      background-color: grey;
+    }
+
+    .form-control {
+      margin-bottom: 25px;
+    }
